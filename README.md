@@ -11,3 +11,5 @@ Descomprima el archivo y abra el archivo "Instrucciones de instalación ProsOdig
 Por favor no dude en comunicarnos cualquier duda o comentarios
 
 Att: Los investigadores.
+
+Nota: Éste programa accede al micrófono del computador para la adquicicion de la señal de voz.
